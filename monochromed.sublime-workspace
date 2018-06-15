@@ -1,0 +1,845 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"s",
+				"size\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 11162,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "repair_cost.html",
+			"settings":
+			{
+				"buffer_size": 17656,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "gaming.html",
+			"settings":
+			{
+				"buffer_size": 7485,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "onecolumn.html",
+			"settings":
+			{
+				"buffer_size": 8123,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "threecolumn.html",
+			"settings":
+			{
+				"buffer_size": 7485,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "twocolumn1.html",
+			"settings":
+			{
+				"buffer_size": 6961,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "twocolumn2.html",
+			"settings":
+			{
+				"buffer_size": 6936,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dropdownmenu.css",
+			"settings":
+			{
+				"buffer_size": 1638,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": ".btn-group button {"
+			}
+		},
+		{
+			"file": "css/accordion.css",
+			"settings":
+			{
+				"buffer_size": 858,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/skel-panels.min.js",
+			"settings":
+			{
+				"buffer_size": 13658,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dropdownmenu.js",
+			"settings":
+			{
+				"buffer_size": 645,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "// Write JavaScript here"
+			}
+		},
+		{
+			"contents": "<p>\n\t\t\t\t\t\t\t\t\t<span style=\"text-decoration: underline;\"><strong>IPOD REPAIR PRICES</strong></span>\n\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t<!-- iPod Variants -->\n\t\t\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\t\t\tiPod 4 Cracked Screen – $59.99<br />\n\t\t\t\t\t\t\t\t\tiPod 5 Cracked Screen - $89.99<br />\n\t\t\t\t\t\t\t\t\tiPod 6 Cracked Screen - $89.99\n\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\t\t\t<span style=\"text-decoration: underline;\"><strong>IPAD REPAIR PRICES</strong></span>\n\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t<!-- iPad Variants -->\n\t\t\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\t\t\tiPad 1 Cracked Screen – $79.99<br />\n\t\t\t\t\t\t\t\t\tiPad 2 Cracked Screen - $79.99<br />\n\t\t\t\t\t\t\t\t\tiPad 3 Cracked Screen - $79.99<br />\n\t\t\t\t\t\t\t\t\tiPad 4 Cracked Screen - $79.99<br />\n\t\t\t\t\t\t\t\t\tiPad 2 3 4 LCD &amp; Glass Replacement - $159.99<br />\n\t\t\t\t\t\t\t\t\tiPad Mini 1 Cracked Screen - $99.99<br />\n\t\t\t\t\t\t\t\t\tiPad Mini 2 Cracked Screen - $99.99<br />\n\t\t\t\t\t\t\t\t\tiPad Mini 3 Cracked Screen - $99.99<br />\n\t\t\t\t\t\t\t\t\tiPad Mini 4 LCD / Glass Replacement - $199.99<br />\n\t\t\t\t\t\t\t\t\tiPad Air Cracked Screen - $99.99<br />\n\t\t\t\t\t\t\t\t\tiPad Air 2 LCD/ Glass Replacement - $CALL<br />\n\t\t\t\t\t\t\t\t\tiPad Pro 9.7 Glass/LCD - $Call<br />\n\t\t\t\t\t\t\t\t\tiPad Pro 10.5 Glass/LCD - $Call<br />\n\t\t\t\t\t\t\t\t\tiPad Pro 12.9 Glass/LCD - $Call<br />\n\t\t\t\t\t\t\t\t\tiPad Pro 12.9 Gen. 2 Glass/LCD $Call\n\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\t\t\t<span style=\"text-decoration: underline;\"><strong>SAMSUNG GALAXY REPAIR PRICES</strong></span>\n\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t<!-- Galaxy S Series -->\n\t\t\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\t\t\tGalaxy S3 Glass - $79.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy S3 LCD – $129.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy S3 Battery - $19.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy S4 Glass - $99.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy S4 LCD - $139.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy S4 Active LCD - $129.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy S4 Battery - $19.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy S5 Glass - $129.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy S5 LCD - $159.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy S5 Battery - $19.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy S5 Active LCD - $CALL<br />\n\t\t\t\t\t\t\t\t\tGalaxy S6 Cracked Glass - $199.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy S6 Cracked LCD - $199.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy S6 Battery - $99.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy S6 Edge Glass/LCD - $199.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy S6 Edge Charging Port - $99.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy S6 Edge Battery - $99.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy S6 Edge+ Glass/LCD - $CALL<br />\n\t\t\t\t\t\t\t\t\tGalaxy S6 Edge+ Charging Port - $149.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy S6 Edge+ Battery - $149.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy S7 Glass/LCD - $CALL<br />\n\t\t\t\t\t\t\t\t\tGalaxy S7 Charging Port - $99.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy S7 Edge Glass/LCD - $Call<br />\n\t\t\t\t\t\t\t\t\tGalaxy S8 Glass - $159.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy S8 LCD - $Call<br />\n\t\t\t\t\t\t\t\t\tGalaxy S8 Plus Glass - $199.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy S8 Plus LCD - $369.99<br />\n\t\t\t\t\t<!-- Galaxy Note -->\n\t\t\t\t\t\t\t\t\tGalaxy Note 2 Glass - $129.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy Note 2 LCD - $179.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy Note 3 Glass - $99.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy Note 3 LCD - $159.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy Note 3 Charging Port - $69.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy Note 3 Battery - $19.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy Note 4 Glass - $139.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy Note 4 LCD - $199.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy Note 4 Charging Port - $99.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy Note 4 Battery - $99.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy Note 5 Glass/LCD - $CALL<br />\n\t\t\t\t\t\t\t\t\tGalaxy Note 5 Charging Port - $149.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy Note 5 Battery - $149.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy Note 8 Glass/LCD - $Call<br />\n\t\t\t\t\t\t\t\t\tGalaxy Note Edge Glass/LCD - $CALL<br />\n\t\t\t\t\t<!-- Galaxy Mega -->\n\t\t\t\t\t\t\t\t\tGalaxy Mega Cracked Screen - $99.99<br />\n\t\t\t\t\t\t\t\t\tGalaxy Mega 2 Cracked Screen - $99.99<br />\n\t\t\t\t\t<!-- LG G Series -->\n\t\t\t\t\t\t\t\t\tLG G2 Glass/LCD Replacement - $79.99<br />\n\t\t\t\t\t\t\t\t\tLG G2 Charging Port - $69.99<br />\n\t\t\t\t\t\t\t\t\tLG G3 Glass/LCD Replacement - $99.99<br />\n\t\t\t\t\t\t\t\t\tLG G3 Charging Port - $69.99<br />\n\t\t\t\t\t\t\t\t\tLG G4 Glass/LCD Replacement - $99.99<br />\n\t\t\t\t\t\t\t\t\tLG G4 Charging Port - $69.99<br />\n\t\t\t\t\t\t\t\t\tLG G5 Glass/LCD Replacement - $109.99<br />\n\t\t\t\t\t\t\t\t\tLG G5 Charging Port - $69.99<br />\n\t\t\t\t\t\t\t\t\tLG G6 Glass/LCD Replacement - $149.99<br />\n\t\t\t\t\t\t\t\t\tLG G6 Charging Port - $79.99\n\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\t\t\t<span style=\"text-decoration: underline;\"><strong>GAME CONSOLE REPAIR PRICES</strong></span>\n\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t<p>\n\t\t\t\t\t\t\t\t\tXbox 360 Red Ring of Death - $89.99<br />\n\t\t\t\t\t\t\t\t\tXbox One - Call for pricing<br />\n\t\t\t\t\t\t\t\t\tPlayStation 3 Yellow Light of Death - $89.99<br />\n\t\t\t\t\t\t\t\t\tPlaystation 4 - Call for pricing\n\t\t\t\t\t\t\t\t</p>\n\n                            </div>\n                        </section>",
+			"settings":
+			{
+				"buffer_size": 4386,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/accordion.js",
+			"settings":
+			{
+				"buffer_size": 476,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "var acc = document.getElementsByClassName(\"accordi"
+			}
+		},
+		{
+			"file": "js/init.js",
+			"settings":
+			{
+				"buffer_size": 1029,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Examples/accordion.html",
+			"settings":
+			{
+				"buffer_size": 1961,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<!-- html example for accordion panels -->"
+			}
+		},
+		{
+			"file": "dropdownmenu.html",
+			"settings":
+			{
+				"buffer_size": 1318,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Create new LiveReload plugin"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"LiveReload: Enable plugin",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"",
+				"Package Control: Add Repository"
+			],
+			[
+				"LiveReload: Enable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/A/Documents/Dropbox/website/templated-monochromed/monochromed.sublime-project",
+		"/A/Utilities/WebDevelopment/Sublime Text Build 3176 x64/Data/Packages/User/HTML.sublime-settings",
+		"/A/Documents/Dropbox/website/templated-monochromed/css/style-desktop.css",
+		"/A/Documents/Dropbox/website/templated-monochromed/css/style.css",
+		"/A/Utilities/WebDevelopment/Sublime Text Build 3176 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/A/Utilities/WebDevelopment/Sublime Text Build 3176 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/A/Utilities/WebDevelopment/Sublime Text Build 3176 x64/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/A/Utilities/WebDevelopment/Sublime Text Build 3176 x64/Data/Packages/View In Browser/View In Browser.sublime-settings",
+		"/A/Documents/Dropbox/website/Dev73k/Devour52k.github.io/images/style.oldcss",
+		"/A/Documents/GitHub/Devour52k.github.io/index.html",
+		"/A/Desktop/top_nav_menu.css",
+		"/A/Documents/GitHub/Devour52k.github.io/css/Azulmedia.css",
+		"/A/Documents/GitHub/Devour52k.github.io/services.html",
+		"/A/Documents/GitHub/Devour52k.github.io/css/custom.css",
+		"/A/Documents/GitHub/Devour52k.github.io/test.html",
+		"/A/Documents/GitHub/Devour52k.github.io/gaming.html",
+		"/A/Documents/GitHub/Devour52k.github.io/index2.html",
+		"/A/Utilities/WebDevelopment/Sublime Text Build 3176 x64/Data/Packages/LiveReload/LiveReload.sublime-settings",
+		"/A/Documents/GitHub/Devour52k.github.io/action-page.php",
+		"/A/Utilities/WebDevelopment/Sublime Text Build 3176 x64/Data/Packages/User/LiveReload.sublime-settings",
+		"/A/Utilities/WebDevelopment/Sublime Text Build 3176 x64/Data/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"header"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 12,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1006,
+								778
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 18.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "repair_cost.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17656,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7181,
+								7181
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5410.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "gaming.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7485,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1006,
+								1006
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "onecolumn.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1006,
+								1006
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 18.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "threecolumn.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7485,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1006,
+								1006
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "twocolumn1.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6961,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1006,
+								1006
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "twocolumn2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1006,
+								1006
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 72.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "dropdownmenu.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1638,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1638
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".btn-group button {",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 227.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "css/accordion.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 858,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								858,
+								858
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "js/skel-panels.min.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13658,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								57
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "dropdownmenu.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 645,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								645,
+								645
+							]
+						],
+						"settings":
+						{
+							"auto_name": "// Write JavaScript here",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4386,
+								4386
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 910.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "js/accordion.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 476,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								476,
+								73
+							]
+						],
+						"settings":
+						{
+							"auto_name": "var acc = document.getElementsByClassName(\"accordi",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "js/init.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1029,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								352,
+								352
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "Examples/accordion.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1961,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1629,
+								1629
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<!-- html example for accordion panels -->",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 370.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "dropdownmenu.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								363,
+								363
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 127.0
+	},
+	"pinned_build_system": "",
+	"project": "monochromed.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 184.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
